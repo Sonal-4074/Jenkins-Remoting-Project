@@ -1,0 +1,22 @@
+Jenkins Agent Connection Commands
+
+----------------------------------------
+Agent 1 Connection
+----------------------------------------
+
+curl.exe -sO http://localhost:8080/jnlpJars/agent.jar
+
+java -jar agent.jar -url http://localhost:8080/ -secret ******** -name agent1 -webSocket
+
+
+----------------------------------------
+Agent 2 Connection
+----------------------------------------
+
+curl.exe -sO http://localhost:8080/jnlpJars/agent.jar
+
+java -jar agent.jar -url http://localhost:8080/ -secret ******** -name agent2 -webSocket
+
+
+Note:
+Actual secrets have been hidden for security purposes.
