@@ -164,23 +164,19 @@ This demonstrated Jenkins distributed build capabilities.
 
 ### Job-Agent1 Configuration
 
-![Job Agent1](screenshots/job-agent1-config.png)
+![Job Agent1](screenshots/Job-agent1-config.png)
 
 ### Job-Agent1 Console Output
 
-![Console Agent1](screenshots/job-agent1-console.png)
+![Console Agent1](screenshots/Job-agent1-console.png)
 
 ### Job-Agent2 Configuration
 
-![Job Agent2](screenshots/job-agent2-config.png)
+![Job Agent2](screenshots/Job-agent2-config.png)
 
 ### Job-Agent2 Console Output
 
-![Console Agent2](screenshots/job-agent2-console.png)
-
-### Build Success
-
-![Build Success](screenshots/build-success.png)
+![Console Agent2](screenshots/Job-agent2-console.png)
 
 ---
 
